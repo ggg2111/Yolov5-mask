@@ -213,7 +213,7 @@ def parse_opt():
     weights = 'runs/train/exp/weights/mask-best.pt'
     # source = './VOCdevkit/images/test'
     source = '0'
-    data = './data/mask.yaml'
+    data = ''
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', nargs='+', type=str, default=weights, help='model path(s)')
