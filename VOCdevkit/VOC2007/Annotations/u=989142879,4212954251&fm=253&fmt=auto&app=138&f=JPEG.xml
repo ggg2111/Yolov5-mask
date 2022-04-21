@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>u=989142879,4212954251&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</filename>
+	<path>C:\Users\21115\Desktop\VOC\VOC2007\JPEGImages\u=989142879,4212954251&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>withoutmask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>14</ymin>
+			<xmax>447</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
